@@ -1,0 +1,62 @@
+.grid{
+display:flex;
+flex-direction: column;
+justify-content:center ;
+ }
+
+.header{
+    display:flex;
+    flex-direction: column;
+    justify-content:end;
+    color: rgb(212, 248, 10);
+    border:rgb(243, 3, 211) ridge;
+    font-size: 10mm;
+    
+    }
+
+    *{
+    border:transparent;
+    background: rgb(0, 0, 0);
+    }
+.animal1{
+    border:rgb(11, 219, 45) ridge;
+    text-align: center;
+    font-size: 20mm;
+    color: violet;
+    
+}
+
+.animal2{
+    border:rgb(11, 219, 45) ridge;
+    text-align: center;
+    font-size: 20mm;
+    color: violet;
+}
+
+.animal3{
+    border:rgb(11, 219, 45) ridge;
+    text-align: center;
+    font-size: 20mm;
+    color: violet;
+}
+
+.animal4{
+    border:rgb(11, 219, 45) ridge;
+    text-align: center;
+    font-size: 20mm;
+    color: violet;
+}
+
+.animal5{
+    border:rgb(11, 219, 45) ridge;
+    text-align: center;
+    font-size: 20mm;
+    color: violet;
+}
+
+.animal6{
+    border:rgb(11, 219, 45) ridge;
+    text-align: center;
+    font-size: 20mm;
+    color: violet;
+}
